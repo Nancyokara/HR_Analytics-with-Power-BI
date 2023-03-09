@@ -38,7 +38,6 @@ The dimension tables are all joined to the fact table with a one-to-many relatio
 
 This is a single page report
 
-You can interact with the report here ()
 
 ## Analysis:
 
